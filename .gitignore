@@ -7,7 +7,7 @@
 __pycache__/
 *.py[cod]
 .pytest_cache/
-.venv/
+.venv*/
 venv/
 
 # Node
@@ -24,4 +24,3 @@ chroma_db/
 
 # OS
 .DS_Store
-
